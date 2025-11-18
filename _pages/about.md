@@ -22,7 +22,7 @@ redirect_from:
 <!-- --- -->
 
 <p align="justify">
-I am a Software Engineer at Samsung R&D Institute Bangladesh (SRBD). Currently, I am working on the Semantic Knowledge Graph Modeling Tool project in collaboration with Oxford Semantic Technologies (UK), which enables intuitive ontology modeling, visualization, data mapping, and advanced reasoning using RDFox.
+Seeking a software/ML engineering position to apply my strong problem-solving and analytical skills in designing innovative and efficient solutions. With a solid foundation in competitive programming and hands-on experience in developing machine learning-based projects and software applications, I am committed to continuously learn and contribute to your company’s success.
 </p>
 
 <!-- <p align="justify">
