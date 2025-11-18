@@ -1,25 +1,25 @@
 # main links links
 main:
-  - title: "Research"
-    url: /publications/
+  # - title: "Research"
+  #   url: /publications/
 
-  - title: "Education"
-    url: /education/    
+  # - title: "Education"
+  #   url: /education/    
 
-  - title: "Experience"
-    url: /experience/    
+  # - title: "Experience"
+  #   url: /experience/    
 
-  - title: "Achievements"
-    url: /achievements/    
+  # - title: "Achievements"
+  #   url: /achievements/    
     
-  - title: "Skills"
-    url: /skills/
+  # - title: "Skills"
+  #   url: /skills/
         
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
     
-  - title: "Others"
-    url: /misc/
+  # - title: "Others"
+  #   url: /misc/
     
   # - title: "Guide"
   #   url: /markdown/
