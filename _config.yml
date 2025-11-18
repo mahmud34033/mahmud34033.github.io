@@ -8,27 +8,28 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Md. Sajid Alam Chowdhury"
+title                    : "Abdullah Al Mahmud"
 title_separator          : "-"
-name                     : &name "Md. Sajid Alam Chowdhury"
-description              : &description "Studying Computer Science at CUET with a focus on Natural Language Processing and Computer Vision."
-url                      : "https://Sajid064.github.io/" # Change to your GitHub Pages URL
+name                     : &name "Abdullah Al Mahmud"
+description              : &description "Studying Computer Science at Daffodil International University with a focus on Natural Language Processing and Machine Learning."
+url                      : "https://mahmud34033.github.io/" # Change to your GitHub Pages URL
 baseurl                  : "" 
-repository               : "Sajid064/Sajid064.github.io" # Change to your repository
+repository               : "mahmud34033/mahmud34033.github.io" # Change to your repository
 
 # Site Author
 author:
-  avatar                 : "sajidchowdhury.jpg"
-  name                   : "Md. Sajid Alam Chowdhury"
+  avatar                 : "abdullah-pic.jpeg"
+  name                   : "Abdullah Al Mahmud"
   bio                    : ""
   location               : "Dhaka, Bangladesh"
-  employer               : "Chittagong University of Engineering <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and Technology (CUET)"
-  email                  : "sajid.chowdhury009@gmail.com" 
+  # employer               : "Chittagong University of Engineering <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and Technology (CUET)"
+  employer               : "Daffodil International University"
+  email                  : "mahmud34033@gmail.com" 
 
   # Academic and professional profiles
-  googlescholar          : "https://scholar.google.com/citations?hl=en&authuser=1&user=HwhiMM8AAAAJ"
-  github                 : "Sajid064"
-  linkedin               : "md-sajid-alam-chowdhury"  # Your LinkedIn username
+  googlescholar          : "#"
+  github                 : "mahmud34033"
+  linkedin               : "mahmud34033"  # Your LinkedIn username
   # twitter                : "ashrafulparan"  # Your Twitter handle
 
 # Analytics
@@ -47,10 +48,10 @@ google_site_verification : "YOUR_VERIFICATION_CODE"
 # Social Profiles
 social:
   type                   : "Person"
-  name                   : "Md. Sajid Alam Chowdhury"
+  name                   : "Abdullah Al Mahmud"
   links:
-    - "https://github.com/Sajid064"
-    - "https://www.linkedin.com/in/md-sajid-alam-chowdhury/"
+    - "https://github.com/mahmud34033"
+    - "https://www.linkedin.com/in/mahmud34033/"
     # - "https://twitter.com/ashrafulparan"
 
 # Site Settings
