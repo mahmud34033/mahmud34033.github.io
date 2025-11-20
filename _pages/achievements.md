@@ -11,6 +11,6 @@ permalink: /achievements/
 - **22nd Position (2nd Runner-up in Batch)**, DIU Unlock The Algorithm Programming Contest (2024)
 - **28th Position (4th in Batch)**, DIU Take-Off Programming Contest (2022)
 - **3rd Position**, Bangladesh IQ Olympiad 2020 (Senior Category) (2020)
-- **1st Position**, Inter-College Science Festival: Sudoku Competition (2019)
 - **3rd Position**, Inter-College Science Festival: Olympiad Segment (2019)
+- **1st Position**, Inter-College Science Festival: Sudoku Competition (2019)
 - **Best Merit Award**, In Class 10 (2017)
