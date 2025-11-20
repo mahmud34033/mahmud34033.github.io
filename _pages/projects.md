@@ -48,3 +48,4 @@ permalink: /projects/
 - *Developed a Java desktop app to manage contacts with a simple GUI*
 - *Features for adding, searching, editing, and deleting contacts securely*
 - *Smooth navigation for quick access and updates*
+
