@@ -18,8 +18,8 @@ main:
   - title: "Projects"
     url: /projects/
     
-  # - title: "Others"
-  #   url: /misc/
+  - title: "Others"
+    url: /misc/
     
   # - title: "Guide"
   #   url: /markdown/
