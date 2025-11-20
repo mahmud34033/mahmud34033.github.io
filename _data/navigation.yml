@@ -9,8 +9,8 @@ main:
   # - title: "Experience"
   #   url: /experience/    
 
-  # - title: "Achievements"
-  #   url: /achievements/    
+  - title: "Achievements"
+    url: /achievements/    
     
   # - title: "Skills"
   #   url: /skills/
