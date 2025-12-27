@@ -36,5 +36,5 @@ Alongside my research, I have strong programming skills with proficiency in C, C
 
 <b>Contact: 📧</b> <a href="mailto:{{ author.email }}" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0">mahmud34033@gmail.com</a>
 
-<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1PZP_B3OMt25MDFr2WBxhpkdNyNeeUcQB/view?usp=sharing" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0;">CV</a>]
+<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1MGRPffRmvEI8FS3wD6DorjYhuUNKKUyf/view?usp=drive_link" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0;">CV</a>]
 
