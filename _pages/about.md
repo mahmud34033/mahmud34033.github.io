@@ -22,7 +22,7 @@ redirect_from:
 <!-- --- -->
 
 <p align="justify">
-Seeking a software/ML engineering position to apply my strong problem-solving and analytical skills in designing innovative and efficient solutions. With a solid foundation in competitive programming and hands-on experience in developing machine learning-based projects and software applications, I am committed to continuously learn and contribute to your company’s success.
+Seeking a software engineering position to apply my strong problem-solving and analytical skills in designing innovative and efficient solutions. With a solid foundation in competitive programming and hands-on experience in developing machine learning-based projects and software applications, I am committed to continuously learn and contribute to your company’s success.
 </p>
 
 <!-- <p align="justify">
