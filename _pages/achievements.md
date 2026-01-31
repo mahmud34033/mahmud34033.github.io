@@ -5,7 +5,7 @@ permalink: /achievements/
 ---
 <h1 style="border-bottom: 2px solid;">Honors and Awards</h1>
 
-- **75% Result-Based Waiver x8**, For academic excellence in the CSE department of DIU (2022-2025)
+- **75% Result-Based Waiver x8**, For academic excellence in the CSE department of DIU (2022-2026)
 - **Best Library User Award x2**, DIU (2024-2025)
 - **Honorable Mention x3**, ICPC Asia Dhaka Regional Site Preliminary Contest (2022-2024)
 - **22nd Position (2nd Runner-up in Batch)**, DIU Unlock The Algorithm Programming Contest (2024)
