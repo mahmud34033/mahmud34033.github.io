@@ -17,7 +17,7 @@ permalink: /education/
 <h2 style="color: #4c00b0; text-align: left;">Daffodil International University (DIU)</h2>
 
 _Bachelors in Computer Science and Engineering_  
-Study Period: <b>May 2022 - Ongoing</b>  
+Study Period: <b>May 2022 - June 2026</b>  
 Supervisor: <span style="font-weight: bold;"><a href="https://scholar.google.com/citations?user=mC0VMYQAAAAJ&hl=en" target="_blank" style="text-decoration:none;">Nazmun Nessa Moon</a></span>
   
 
