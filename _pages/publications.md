@@ -21,7 +21,7 @@ My research focuses on Natural Language Processing (NLP) and Machine Learning, w
 <br>
 <h1 style="border-bottom: 2px solid;">Research and Publications</h1>
 {% if site.author.googlescholar %}
-  <div class="wordwrap"><a href="https://scholar.google.com/#" style="color: #990033;" target="_blank"></a>.</div>
+  <div class="wordwrap"><a href="https://scholar.google.com/#" style="color: #990033;" target="_blank"></a></div>
 {% endif %}
 
 {% include base_path %}
