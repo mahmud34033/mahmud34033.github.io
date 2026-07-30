@@ -19,7 +19,7 @@ My research focuses on Natural Language Processing (NLP) and Machine Learning, w
 <!-- - Cross-Modal Learning, Integrating Visual, Textual, and Acoustic Data for Advanced AI Systems -->
 
 <br>
-<h1 style="border-bottom: 2px solid;">Publications</h1>
+<h1 style="border-bottom: 2px solid;">Research and Publications</h1>
 {% if site.author.googlescholar %}
   <!-- <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/#" style="color: #990033;" target="_blank">my Google Scholar profile</a>.</div> -->
 {% endif %}
