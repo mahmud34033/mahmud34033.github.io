@@ -22,7 +22,11 @@ redirect_from:
 <!-- --- -->
 
 <p align="justify">
-Seeking a software engineering position to apply my strong problem-solving and analytical skills in designing innovative and efficient solutions. With a solid foundation in competitive programming and hands-on experience in developing machine learning-based projects and software applications, I am committed to continuously learn and contribute to your company’s success.
+I am an aspiring Software and Machine Learning Engineer with a strong foundation in building intelligent, scalable, and efficient solutions. I recently completed my B.Sc. in Computer Science and Engineering from Daffodil International University (DIU) with a CGPA of 3.71/4.00.
+
+My broader research interests lie in **Natural Language Processing (NLP)** and **Machine Learning**. Specifically, I am enthusiastic about multilingual NLP, explainable AI (XAI), and deploying optimized ML models into production. During my undergraduate studies, I worked under the supervision of Ms. Nazmun Nessa Moon, where I fine-tuned BanglaBERT for political sentiment analysis (achieving 93.33% accuracy) and successfully published a public sentiment dataset on Mendeley Data.
+
+Alongside my research, I have strong programming skills with proficiency in **Python, C/C++, Java, SQL, and Dart**. I have been an active competitive programmer, solving over **500 problems** across online judges such as Codeforces, Beecrowd, and CodeChef. Through my academic projects, research, and hands-on development experience (including FastAPI, Docker, and Flutter), I have developed strong problem-solving, teamwork, and adaptability skills, enabling me to bridge the gap between theoretical research and practical software engineering effectively.
 </p>
 
 <!-- <p align="justify">
@@ -36,5 +40,5 @@ Alongside my research, I have strong programming skills with proficiency in C, C
 
 <b>Contact: 📧</b> <a href="mailto:{{ author.email }}" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0">mahmud34033@gmail.com</a>
 
-<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1MGRPffRmvEI8FS3wD6DorjYhuUNKKUyf/view?usp=drive_link" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0;">CV</a>]
+<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1WNnNizkaOlZFzTVyJUYQVj0BnGNRrclJ/view?usp=sharing" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0;">CV</a>]
 
