@@ -22,11 +22,15 @@ redirect_from:
 <!-- --- -->
 
 <p align="justify">
-I am an aspiring Software and Machine Learning Engineer with a strong foundation in building intelligent, scalable, and efficient solutions. I recently completed my B.Sc. in Computer Science and Engineering from Daffodil International University (DIU) with a CGPA of 3.71/4.00.
+I am <b> an aspiring Software and Machine Learning Engineer </b> with a strong foundation in building intelligent, scalable, and efficient solutions. I recently completed my B.Sc. in Computer Science and Engineering from Daffodil International University (DIU) with a CGPA of 3.71/4.00.
+</p>
 
-My broader research interests lie in **Natural Language Processing (NLP)** and **Machine Learning**. Specifically, I am enthusiastic about multilingual NLP, explainable AI (XAI), and deploying optimized ML models into production. During my undergraduate studies, I worked under the supervision of <a href="https://scholar.google.com/citations?user=mC0VMYQAAAAJ&hl=en" target="_blank" style="text-decoration:none;">Ms. Nazmun Nessa Moon</a>, where I fine-tuned BanglaBERT for political sentiment analysis (achieving 93.33% accuracy) and successfully published a public sentiment dataset on Mendeley Data.
+<p align="justify">
+My broader research interests lie in <b>>Natural Language Processing (NLP)</b> and <b>Machine Learning*</b>. Specifically, I am enthusiastic about multilingual NLP, explainable AI (XAI), and deploying optimized ML models into production. During my undergraduate studies, I worked under the supervision of <a href="https://scholar.google.com/citations?user=mC0VMYQAAAAJ&hl=en" target="_blank" style="text-decoration:none;">Ms. Nazmun Nessa Moon</a>, where I fine-tuned BanglaBERT for political sentiment analysis (achieving 93.33% accuracy) and successfully published a public sentiment dataset on Mendeley Data.
+</p>
 
-Alongside my research, I have strong programming skills with proficiency in **Python, C/C++, Java, SQL, and Dart**. I have been an active competitive programmer, solving over **500 problems** across online judges such as Codeforces, Beecrowd, and CodeChef. Through my academic projects, research, and hands-on development experience (including FastAPI, Docker, and Flutter), I have developed strong problem-solving, teamwork, and adaptability skills, enabling me to bridge the gap between theoretical research and practical software engineering effectively.
+<p align="justify">
+Alongside my research, I have strong programming skills with proficiency in <b>>Python, C/C++, Java, SQL and Dart</b>. I have been an active competitive programmer, solving over <b>500 problems</b> across online judges such as Codeforces, Beecrowd, and CodeChef. Through my academic projects, research, and hands-on development experience (including FastAPI, Docker, and Flutter), I have developed strong problem-solving, teamwork, and adaptability skills, enabling me to bridge the gap between theoretical research and practical software engineering effectively.
 </p>
 
 <!-- <p align="justify">
