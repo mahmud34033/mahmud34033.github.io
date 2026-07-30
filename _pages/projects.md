@@ -13,39 +13,66 @@ permalink: /projects/
 </head>
 
 
+<h2 style="color: #4c00b0; text-align: left;">Bangla Political Sentiment Analyzer&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/bangla_political_sentiment_analyzer"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
+
+- *<b>Tech:</b> HTML, CSS, JavaScript, Python, Hugging Face, FastAPI, Docker*
+- *Fine-tuned BanglaBERT for political sentiment analysis with 93.33% accuracy*
+- *Integrated LIME and SHAP, optimized with ONNX, deployed via FastAPI and Docker*
+
+
+
+
+<h2 style="color: #4c00b0; text-align: left;">Captains Coin Shop&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Captains-Coin-Shop_A-Digital-Game-Shop"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
+
+- *<b>Tech:</b> PHP, MySQL, Bootstrap 5*
+- *Built a PHP e-commerce platform for digital games with local payment support*
+- *Implemented admin dashboard with secure auth, AJAX delivery tracking, and Bootstrap 5 UI*
+
+
+
+
+<h2 style="color: #4c00b0; text-align: left;">MedXpert&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/MedXpert_A-MobileBased-Healthcare-Assistance-Application"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
+
+- *<b>Tech:</b> Dart, Flutter, Firebase*
+- *Built a cross-platform app for doctor consultation, blood requests, and ambulance services*
+- *Integrated Firebase Authentication for secure access, pharmacy ordering, and responsive mobile UI*
+
+
+
+
 <h2 style="color: #4c00b0; text-align: left;">Samba Server Configuration Tool&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Setting-Up-A-Samba-Server---OS-Lab-Project"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
 
+- *<b>Tech:</b> Python, Tkinter, Linux, Samba*
 - *Configured a secure Samba server with a Python Tkinter GUI for Linux-Windows file sharing*
-- *Automated Samba installation, user management, and permission configuration*
-- *Focused on ease of use for small office and educational environments*
+- *Automated installation, user management and permission configuration for small office environments*
 
-<h2 style="color: #4c00b0; text-align: left;">GlucoPredict: Health-Based Glucose Level Prediction&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Glucose-Level-Predictor-using-ML"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
 
-- *Developed a Streamlit web app for predicting glucose levels using machine learning*
-- *Incorporated health indicators such as age, BMI, blood pressure, and diabetes status*
-- *Provided an interactive, non-invasive, and user-friendly interface for instant predictions*
 
-<h2 style="color: #4c00b0; text-align: left;">Small Company Office Network&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Small-Company-Office-Network---CN-Lab-Project" target="_blank"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
 
-- *Simulated office network in Cisco Packet Tracer with VLAN, OSPF, DHCP, and NAT*
-- *Implemented network segmentation and dynamic routing for secure communication*
-- *Used for learning and planning small business networks*
+<h2 style="color: #4c00b0; text-align: left;">Small Company Office Network&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Small-Company-Office-Network---CN-Lab-Project"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
 
-<h2 style="color: #4c00b0; text-align: left;">Restaurant Management System&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Restaurant-Management-System---DBMS-Project" target="_blank"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
+- *<b>Tech:</b> Cisco Packet Tracer, VLAN, OSPF, DHCP, NAT*
+- *Designed and simulated a small office network infrastructure*
+- *Implemented VLAN segmentation, dynamic routing, DHCP and NAT for secure*
 
-- *Built a Python Tkinter app to manage orders, sales, inventory, and staff*
-- *Used SQLite for database and tkcalendar, PIL for GUI enhancements*
-- *Runs offline for small restaurants with future scalability options*
 
-<h2 style="color: #4c00b0; text-align: left;">Automatic Cover Page Generator&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Automatic-Cover-Page-Generator" target="_blank"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
 
-- *Built a Tkinter-based desktop app to automate academic cover page creation*
-- *Integrated data validation, Excel-based data persistence, and PDF generation using ReportLab*
-- *Enabled data reusability and offline functionality for efficient document management*
 
-<h2 style="color: #4c00b0; text-align: left;">FriendBook: Your Personal Contact Manager&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/FriendBook__Personal-Contact-Management-System" target="_blank"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
 
-- *Developed a Java desktop app to manage contacts with a simple GUI*
-- *Features for adding, searching, editing, and deleting contacts securely*
-- *Smooth navigation for quick access and updates*
 
+<h2 style="color: #4c00b0; text-align: left;">Restaurant Management System&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Restaurant-Management-System---DBMS-Project"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
+
+- *<b>Tech:</b> Python, Tkinter, SQLite, PIL*
+- *Built a desktop app for managing restaurant orders, inventory, and staff*
+- *Integrated SQLite for tracking, automated billing, invoice processing, and custom GUI*
+
+
+
+
+
+
+<h2 style="color: #4c00b0; text-align: left;">Automatic Cover Page Generator&nbsp;&nbsp; [<a href = "https://github.com/mahmud34033/Automatic-Cover-Page-Generator"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
+
+- *<b>Tech:</b> Python, Tkinter, ReportLab, Excel*
+- *Developed a desktop application for automated academic cover page creation*
+- *Integrated data validation, Excel-based storage and offline functionality for efficient document*
