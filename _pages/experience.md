@@ -17,7 +17,7 @@ permalink: /experience/
 <h2 style="color: #4c00b0; text-align: left;">Daffodil International University</h2>
 
 Designation: <b>Undergraduate Student Researcher</b>  
-Job Period: <b>May 2025 - May 2026</b>  
-Projects: <b> Deep Learning and NLP Framework for Evaluating Public Sentiment Towards Government in Social Media Political Discourse </b> 
+Period: <b>May 2025 - May 2026</b>  
+Project: <b> Deep Learning and NLP Framework for Evaluating Public Sentiment Towards Government in Social Media Political Discourse </b> 
 
 
