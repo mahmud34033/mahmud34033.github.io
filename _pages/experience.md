@@ -14,10 +14,10 @@ permalink: /experience/
 <h1 style="border-bottom: 2px solid;">Experience</h1>
 
 
-<h2 style="color: #4c00b0; text-align: left;">Samsung R&D Institute Bangladesh (SRBD)</h2>
+<h2 style="color: #4c00b0; text-align: left;">Daffodil International University</h2>
 
-Designation: <b>Software Engineer</b>  
-Job Period: <b>Jul 2025 - Present</b>  
-Projects: <b> Mantix, Enterprise-Knowledge Cognitive Platform (E-KCP) </b> 
+Designation: <b>Undergraduate Student Researcher</b>  
+Job Period: <b>May 2025 - May 2026</b>  
+Projects: <b> Deep Learning and NLP Framework for Evaluating Public Sentiment Towards Government in Social Media Political Discourse </b> 
 
 
