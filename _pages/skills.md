@@ -10,13 +10,12 @@ permalink: /skills/
 <!-- ## <font color="#00cc66"> Technical Skills </font> -->
 
 <pre>
-<span style="color: #4c00b0; font-weight:bold;">Programming Languages</span>    C, C++, Python, Java, Bash, SQL
-<span style="color: #4c00b0; font-weight:bold;">Platforms and IDEs</span>       Code::Blocks, NetBeans, PyCharm, Visual Studio, Colab
-<span style="color: #4c00b0; font-weight:bold;">Web Development</span>          HTML
-<span style="color: #4c00b0; font-weight:bold;">Version Control</span>          Git, GitHub
-<span style="color: #4c00b0; font-weight:bold;">Operating Systems</span>        Windows, Linux
-<span style="color: #4c00b0; font-weight:bold;">MS Office Packages</span>       Word, PowerPoint, Excel
-<span style="color: #4c00b0; font-weight:bold;">UI Prototyping</span>           Adobe XD, Figma
+<span style="color: #4c00b0; font-weight:bold;">AI/ML Libraries & Tools</span>    PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+<span style="color: #4c00b0; font-weight:bold;">Programming Languages</span>      Python, C/C++, Java, SQL, Dart, Bash
+<span style="color: #4c00b0; font-weight:bold;">Backend, Web & Database</span>   Flutter, PHP, HTML/CSS, JavaScript, Bootstrap, MySQL, Firebase
+<span style="color: #4c00b0; font-weight:bold;">Development Tools</span>         Git, GitHub, Google Colab, Kaggle
+<span style="color: #4c00b0; font-weight:bold;">Computer Networking</span>       Routing & Switching, VLAN, OSPF, DHCP (Cisco Packet Tracer)
+<span style="color: #4c00b0; font-weight:bold;">Design & Documentation</span>    Figma, Adobe XD, Microsoft Office, Google Tools, LaTeX
 </pre>
 
 <br>
