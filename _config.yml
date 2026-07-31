@@ -36,7 +36,8 @@ author:
 analytics:
   provider               : "google-analytics-4"
   google:
-    tracking_id          : "G-LGSL8GPK61"  # Google Analytics Tracking ID
+    # tracking_id          : "G-LGSL8GPK61"  # Google Analytics Tracking ID
+    tracking_id          : ""  # Google Analytics Tracking ID
 
 # SEO Related
 google_site_verification : "YOUR_VERIFICATION_CODE"
